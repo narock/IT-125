@@ -2,3 +2,8 @@ Christopher Jones
 Ivan Rivas
 Bria Walton
 Jason Wagner
+<<<<<<< HEAD
+=======
+Faisal Aldubays 
+Rashed Alteneiji
+>>>>>>> parent of 42e4f53... Update class.txt
