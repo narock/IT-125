@@ -25,3 +25,4 @@ Rashed Alteneiji
 Jonathan Gonzalez
 >>>>>>> master
 >>>>>>> origin/Maddie-Warndorf
+Tim Craft
