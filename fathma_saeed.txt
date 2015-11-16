@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Assessment 6</title>
+         <meta charset = "utf-8">
+    </head>
+<body>
+<h1>This is a new file being added</h1>
+
+</body>
+</html> 
