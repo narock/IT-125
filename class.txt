@@ -3,7 +3,15 @@ Meeran Tariq
 Ivan Rivas
 Bria Walton
 Jason Wagner
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 Faisal Aldubays 
+Rashed Alteneiji
+>>>>>>> parent of 42e4f53... Update class.txt
+=======
+Faisal Aldubays 
+<<<<<<< HEAD
 Sraiy Sultan
 Fathma saeed
 <<<<<<< HEAD
@@ -11,3 +19,9 @@ Maddie Warndorf
 =======
 Abdullah Alrfeedi
 >>>>>>> origin/master
+=======
+Mohammed Al Rasheed
+Rashed Alteneiji
+Jonathan Gonzalez
+>>>>>>> master
+>>>>>>> origin/Maddie-Warndorf
