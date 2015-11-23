@@ -27,9 +27,13 @@ Jonathan Gonzalez
 >>>>>>> origin/Maddie-Warndorf
 Tim Craft
 <<<<<<< HEAD
+<<<<<<< HEAD
 =========
 Angelina Assegid
 >>>>>>> master
+=======
+Mitchell Miles
+>>>>>>> origin/master
 =======
 Mitchell Miles
 >>>>>>> origin/master
